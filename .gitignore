@@ -1,0 +1,13 @@
+# Pasta gerada pelo build (a Vercel gera a sua no deploy)
+dist/
+
+# Originais das fotos (fotos de pacientes): ficam só no computador.
+# O site usa as versões otimizadas em assets/img/.
+imagens/
+
+# Vercel e sistema
+.vercel/
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
